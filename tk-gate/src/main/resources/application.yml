@@ -7,7 +7,7 @@ spring:
     jedis:
       pool:
         max-active: 20
-    password: share123
+    password: redis-password
   rabbitmq:
     host: ${RABBIT_MQ_HOST:localhost}
     port:  ${RABBIT_MQ_PORT:5672}

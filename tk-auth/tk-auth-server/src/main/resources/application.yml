@@ -13,7 +13,7 @@ spring:
     port: ${REDIS_PORT:6379}
     pool:
     max-active: 20
-    #password: share123
+    password: redis-password
   datasource:
     name: test
     url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/tk_auth?useUnicode=true&characterEncoding=UTF8&useSSL=false
