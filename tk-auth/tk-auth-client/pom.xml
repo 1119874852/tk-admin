@@ -41,11 +41,15 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
+    <repositories>
         <repository>
-            <id>Central</id>
+            <id>central</id>
+            <name>Central Repository</name>
             <url>https://repo.spring.io/milestone</url>
-            <name>central</name>
+            <layout>default</layout>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
         </repository>
-    </distributionManagement>
+    </repositories>
 </project>
