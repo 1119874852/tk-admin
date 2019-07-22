@@ -40,4 +40,12 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>Central</id>
+            <url>https://repo.spring.io/milestone</url>
+            <name>central</name>
+        </repository>
+    </distributionManagement>
 </project>
