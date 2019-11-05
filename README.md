@@ -38,9 +38,8 @@ Cloud`微`服务`化`开发平台`，具有统一授权、认证后台管理系�
 ![image.png](https://upload-images.jianshu.io/upload_images/5700335-c1d6c24e3b126677.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+![image.png](https://thumbnail0.baidupcs.com/thumbnail/58d885b9bd83bf3559a798fa4ae5db92?fid=2032845954-250528-723217542877415&time=1572922800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-0WKSMNszrs6vWe93Db92kgflMjE%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7154785645421156827&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 
-
-
-
+![image.png](https://thumbnail0.baidupcs.com/thumbnail/ff8d5d00c445a5765dfad245268942cb?fid=2032845954-250528-713701302941697&time=1572922800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-KuaYgG%2FXcIVsMsJ4ekLVzihEpX4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7154821635266426346&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 ##  License
 Apache License Version 2.0
