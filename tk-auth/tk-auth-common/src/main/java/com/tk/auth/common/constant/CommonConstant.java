@@ -2,7 +2,7 @@ package com.tk.auth.common.constant;
 
 /**
  * @Desc tk-admin
- * @Author jx111
+ * @Author jx11i1
  * @Date 2019/3/6-11:24
  */
 public class CommonConstant {
